@@ -1,0 +1,16 @@
+﻿  filter.cpp
+  FilterBlur.cpp
+d:\sxolhhhhhhhhhhhhhhhhhhhhhhhhhhh\xeimerino 2018-2019\c++\assignments\gnhsio\3130230.2nd(vs2017)\filter\filter\filterblur.cpp(16): warning C4018: '<': signed/unsigned mismatch
+d:\sxolhhhhhhhhhhhhhhhhhhhhhhhhhhh\xeimerino 2018-2019\c++\assignments\gnhsio\3130230.2nd(vs2017)\filter\filter\filterblur.cpp(17): warning C4018: '<': signed/unsigned mismatch
+d:\sxolhhhhhhhhhhhhhhhhhhhhhhhhhhh\xeimerino 2018-2019\c++\assignments\gnhsio\3130230.2nd(vs2017)\filter\filter\filterblur.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  FilterGamma.cpp
+  FilterLaplace.cpp
+d:\sxolhhhhhhhhhhhhhhhhhhhhhhhhhhh\xeimerino 2018-2019\c++\assignments\gnhsio\3130230.2nd(vs2017)\filter\filter\filterlaplace.cpp(9): warning C4018: '<': signed/unsigned mismatch
+d:\sxolhhhhhhhhhhhhhhhhhhhhhhhhhhh\xeimerino 2018-2019\c++\assignments\gnhsio\3130230.2nd(vs2017)\filter\filter\filterlaplace.cpp(10): warning C4018: '<': signed/unsigned mismatch
+d:\sxolhhhhhhhhhhhhhhhhhhhhhhhhhhh\xeimerino 2018-2019\c++\assignments\gnhsio\3130230.2nd(vs2017)\filter\filter\filterlaplace.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  FilterLinear.cpp
+  Image.cpp
+  Generating Code...
+Image.obj : error LNK2019: unresolved external symbol "float * __cdecl imaging::ReadPPM(char const *,int *,int *)" (?ReadPPM@imaging@@YAPEAMPEBDPEAH1@Z) referenced in function "public: bool __cdecl imaging::Image::load(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?load@Image@imaging@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+Image.obj : error LNK2019: unresolved external symbol "bool __cdecl imaging::WritePPM(float const *,int,int,char const *)" (?WritePPM@imaging@@YA_NPEBMHHPEBD@Z) referenced in function "public: bool __cdecl imaging::Image::save(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?save@Image@imaging@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+D:\SXOLHHHHHHHHHHHHHHHHHHHHHHHHHHH\XEIMERINO 2018-2019\C++\Assignments\gnhsio\3130230.2nd(vs2017)\filter\x64\Debug\filter.exe : fatal error LNK1120: 2 unresolved externals

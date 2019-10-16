@@ -1,0 +1,10 @@
+﻿  ppm.cpp
+c:\users\doomyx2\desktop\3130230\neg\ppm\ppm.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\doomyx2\desktop\3130230\neg\ppm\ppm.cpp(25): warning C4101: 'b': unreferenced local variable
+c:\users\doomyx2\desktop\3130230\neg\ppm\ppm.cpp(25): warning C4101: 'g': unreferenced local variable
+c:\users\doomyx2\desktop\3130230\neg\ppm\ppm.cpp(25): warning C4101: 'r': unreferenced local variable
+c:\users\doomyx2\desktop\3130230\neg\ppm\ppm.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\doomyx2\desktop\3130230\neg\ppm\ppm.cpp(102): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\doomyx2\desktop\3130230\neg\ppm\ppm.cpp(103): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\doomyx2\desktop\3130230\neg\ppm\ppm.cpp(104): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  ppm.vcxproj -> C:\Users\DoomyX2\Desktop\3130230\neg\ppm\ppm_d.lib
